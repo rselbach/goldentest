@@ -1,5 +1,5 @@
 package boy
 
 func Color() string {
-	return "Golden v1"
+	return "Golden Boy v2"
 }
